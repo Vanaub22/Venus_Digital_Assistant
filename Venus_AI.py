@@ -81,7 +81,3 @@ if __name__=="__main__":
         #introduction
         elif 'who are you' in query or 'what are you' in query:
             speak('I am Venus. Your personalized digital assistant.')
-
-    
-
-
