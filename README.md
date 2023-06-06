@@ -1,0 +1,2 @@
+## Venus - Digital Assistant
+***Venus*** is a personalized digital Assistant created using **Python**. This entry-level project uses the Python modules **pyttsx3**, **speech_recognition**, **datetime**, **wikipedia**, **webbrowser** and **os**. It accepts commands from the user using Voice Recognition and can greet the user, tell the date and time, search Wikipedia to deliver a brief summary on a topic and open desktop applications and common websites.
